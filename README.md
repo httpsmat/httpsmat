@@ -5,6 +5,6 @@ I do most of my stuff in python and powershell
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=powershell,py,vscode,linux,arch,discord,bots,cloudflare" />
+    <img src="https://skillicons.dev/icons?i=powershell,py,vscode,linux,arch,discord,bots,cloudflare,go" />
   </a>
 </p>
