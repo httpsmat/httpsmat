@@ -1,8 +1,14 @@
-## Hi im httpsmat
+## Hi im httpsmat (Matt)
 
-This is my very poor looking github page .
-I do most of my stuff in python and powershell
+Austria
+19/M
+i like cats
 
+I do mostly backend stuff. if you need any help hosting Servers or anything that goes with it just hit me up.
+Allways looking to collaborate on Projects.
+Coding is just my Hobbie i work as a Sys. Admin.
+
+Some of the Stuff i do:
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=powershell,py,vscode,linux,arch,discord,bots,cloudflare,go" />
